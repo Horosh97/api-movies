@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "The Exorcist (1973)",
+      "director": "William Friedkin",
+      "image": "https://i.ibb.co/JzTDFp0/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Texas Chain Saw Massacre (1974)",
+      "director": "Tobe Hooper",
+      "image": "https://i.ibb.co/KXfZYpc/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Thing (1982)",
+      "director": "John Carpenter",
+      "image": "https://i.ibb.co/bLb8bQP/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Shining (1980)",
+      "director": "Stanley Kubrick",
+      "image": "https://i.ibb.co/D4rmbyf/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Silence Of The Lambs (1991)",
+      "director": "Jonathan Demme",
+      "image": "https://i.ibb.co/cy2R49J/5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Blair Witch Project (1999)",
+      "director": "Eduardo Sánchez, Daniel Myrick",
+      "image": "https://i.ibb.co/MBq8505/6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Ringu (1998)",
+      "director": "Hideo Nakata",
+      "image": "https://i.ibb.co/R7vz02Y/7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Jaws (1975)",
+      "director": "Steven Spielberg",
+      "image": "https://i.ibb.co/R4X6Kqj/8.jpg"
+    }
+  ]
+}
